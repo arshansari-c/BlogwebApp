@@ -1,1 +1,2 @@
-# BlogwebApp
+I recently developed a full-stack blog web application using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform offers a smooth and interactive blogging experience with robust features including email OTP-based authentication, blog search, and a personalized recommendation section. Users can like, dislike, comment, reply to comments, save blogs, and track their reading history. These functionalities provide users with an engaging and customized experience while encouraging content interaction and discovery.
+

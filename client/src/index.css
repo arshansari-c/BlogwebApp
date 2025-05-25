@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 12px; /* Scrollbar thickness */
+    height: 12px; /* For horizontal scrollbar */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #2d3748; /* Dark gray thumb color */
+    border-radius: 8px; /* Rounded corners */
+    border: 3px solid #1a202c; /* Border around the thumb */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #1a202c; /* Dark gray track color */
+    border-radius: 8px; /* Rounded corners */
+  }
+  
+  ::-webkit-scrollbar-button {
+    background-color: #1a202c; /* Color of buttons if any (for up/down) */
+  }
+  body{
+    background-color: #1a202c;
+  }
